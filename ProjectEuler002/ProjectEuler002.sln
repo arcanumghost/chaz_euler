@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectEuler002", "ProjectEuler002\ProjectEuler002.vcxproj", "{18A355A9-A392-4685-AEC7-AD985210ACFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A355A9-A392-4685-AEC7-AD985210ACFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18A355A9-A392-4685-AEC7-AD985210ACFB}.Debug|Win32.Build.0 = Debug|Win32
+		{18A355A9-A392-4685-AEC7-AD985210ACFB}.Release|Win32.ActiveCfg = Release|Win32
+		{18A355A9-A392-4685-AEC7-AD985210ACFB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
