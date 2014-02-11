@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectEuler003", "ProjectEuler003\ProjectEuler003.vcxproj", "{4F872960-2ED3-46AD-B13C-835CF7D1259E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EulerLibrary", "..\EulerLibrary\EulerLibrary\EulerLibrary.vcxproj", "{F8EF3C50-147C-4642-B6F0-A80CC84BE37A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F872960-2ED3-46AD-B13C-835CF7D1259E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F872960-2ED3-46AD-B13C-835CF7D1259E}.Debug|Win32.Build.0 = Debug|Win32
+		{4F872960-2ED3-46AD-B13C-835CF7D1259E}.Release|Win32.ActiveCfg = Release|Win32
+		{4F872960-2ED3-46AD-B13C-835CF7D1259E}.Release|Win32.Build.0 = Release|Win32
+		{F8EF3C50-147C-4642-B6F0-A80CC84BE37A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8EF3C50-147C-4642-B6F0-A80CC84BE37A}.Debug|Win32.Build.0 = Debug|Win32
+		{F8EF3C50-147C-4642-B6F0-A80CC84BE37A}.Release|Win32.ActiveCfg = Release|Win32
+		{F8EF3C50-147C-4642-B6F0-A80CC84BE37A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
