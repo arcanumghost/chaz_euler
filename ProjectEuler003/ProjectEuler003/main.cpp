@@ -15,7 +15,6 @@ int main(int argc, char **argv)
             cout << bignumber << ' ' << i << endl;
             bignumber /= i;
         }
-        printf("i = %d\n", i);
     }
         
     cout << i << endl;

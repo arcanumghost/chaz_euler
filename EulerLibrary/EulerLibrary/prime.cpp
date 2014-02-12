@@ -15,6 +15,5 @@ bool isPrime(unsigned x)
             return false;
 
     primevalues.push_back(x);
-    printf("New prime: %d\n", x);
     return true;
 }
