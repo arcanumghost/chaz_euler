@@ -7,7 +7,7 @@ int main(int argc, char **argv)
     unsigned long long sum = 2;
     unsigned pastfib = 1;
     unsigned pastfib2 = 2;
-    for(unsigned i=3; i<4000000; ++i)
+    for(unsigned i=3; i<4000000;)
     {
         i = pastfib + pastfib2;
         pastfib = pastfib2;
